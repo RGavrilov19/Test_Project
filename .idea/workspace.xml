@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95783b41-6cac-489d-90c8-dbf941b6b31f" name="Changes" comment="Задача №5">
-      <change afterPath="$PROJECT_DIR$/src/com/max/idea/Task_6.java" afterDir="false" />
+    <list default="true" id="95783b41-6cac-489d-90c8-dbf941b6b31f" name="Changes" comment="Задача №6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/max/idea/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/max/idea/Task_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660308302485</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Задача №6">
+      <created>1660311500407</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660311500407</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +152,7 @@
     <MESSAGE value="Задача №3" />
     <MESSAGE value="Задача №4" />
     <MESSAGE value="Задача №5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача №5" />
+    <MESSAGE value="Задача №6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача №6" />
   </component>
 </project>
